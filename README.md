@@ -24,79 +24,74 @@
     <img src="https://img.shields.io/badge/🥷_Vigilante-1e1e2e?style=for-the-badge" />
   </p>
 
-  <h3>🌐 Connect with Me</h3>
-  <p align="left">
-    <a href="https://linkedin.com/in/dharshith-dev">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/dharshithdev">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://x.com/dharshithdev">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
-    </a>
-    <a href="https://discord.com/users/dharshithdev">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
-  </p>
+## 🌐 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/dharshith-dev" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/dharshithdev" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://discord.com/users/dharshithdev" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="mailto:dharshithdevkp@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/dharshithdev" target="blank"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
-  <img src="https://komarev.com/ghpvc/?username=dharshithdev&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
+---
 
-<br clear="all" />
-
-## 🛠️ Technical Arsenal
+## 🚀 Featured Deployments
+*Showcasing the intersection of AI and Scalable Web Architecture*
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <h3>🤖 AI & Machine Learning</h3>
-      <img src="https://skillicons.dev/icons?i=python,sklearn,opencv,py" />
-      <p><em>LangChain, RAG, YOLOv8, NLP</em></p>
+    <td>
+      <div align="center">
+        <b>🏥 Hercare</b><br/>
+        <img src="https://img.shields.io/badge/MERN-Stack-blue?style=flat-square" /><br/>
+        <i>AI-Powered Healthcare & 3D Visualization</i>
+      </div>
     </td>
-    <td width="50%" align="center">
-      <h3>💻 Full Stack Development</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,php,mysql" />
-      <p><em>MERN Stack, RESTful APIs, JWT</em></p>
+    <td>
+      <div align="center">
+        <b>🧠 Knowledge Assistant</b><br/>
+        <img src="https://img.shields.io/badge/RAG-LangChain-green?style=flat-square" /><br/>
+        <i>LLM-driven Research Engine</i>
+      </div>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <h3>🎨 Frontend & Styling</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,threejs" />
-      <p><em>Framer Motion, Responsive Design</em></p>
+    <td>
+      <div align="center">
+        <b>👁️ VisionGuard</b><br/>
+        <img src="https://img.shields.io/badge/YOLOv8-OpenCV-orange?style=flat-square" /><br/>
+        <i>Real-time Object Detection</i>
+      </div>
     </td>
-    <td width="50%" align="center">
-      <h3>🧰 Tools & Security</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" />
-      <p><em>Network Security, Google Colab</em></p>
+    <td>
+      <div align="center">
+        <b>🛡️ HRP System</b><br/>
+        <img src="https://img.shields.io/badge/Security-RBAC-red?style=flat-square" /><br/>
+        <i>Enterprise Resource Planning</i>
+      </div>
     </td>
   </tr>
 </table>
 
-## 📊 GitHub Analytics
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharshithdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=dharshithdev&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+## ⚡ Tech Stack Breakdown
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dharshithdev&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
-## 🚀 Recent Projects
-- **Hercare:** AI-powered healthcare platform with 3D fetal development visualization.
-- **AI-Knowledge Assistant:** RAG-based tool using LangChain and Vector Search.
-- **Object Detection System:** Real-time surveillance using YOLOv8 and OpenCV.
-- **HRP System:** Scalable Healthcare Resource Planning suite with RBAC.
+> **Note:** I focus on quality over commit frequency. Most of my complex architectural work happens in private enterprise repositories and specialized local environments.
 
 ---
 
-## ❤️ Support My Work
+## ☕ Support My Innovation
 <p align="center">
   <a href="https://www.buymeacoffee.com/dharshithdev">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" />
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" />
 </p>
