@@ -1,32 +1,28 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Universe&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Dharshith Dev</strong>
-</h1>
+<!-- Typing Heading -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi,+I'm+Dharshith+Dev;AI+Engineer+&+Full+Stack+Dev;Building+The+Future+With+Code" alt="Typing SVG" />
+</p>
 
-<h3>AI Engineer | Full Stack Developer</h3>
+<p align="center">
+  <em>Turning ideas into smooth, functional, and visually engaging digital experiences.</em>
+</p>
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-  <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:dharshithdevkp@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante-1e1e2e?style=for-the-badge" />
-  </p>
-</div>
-
-<br clear="all" />
+<p align="center">
+  <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+  <a href="mailto:dharshithdevkp@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-1e1e2e?style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/🤝_Open_to_Collab-1e1e2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🥷_Vigilante-1e1e2e?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
-<p align="left">
+
+<p align="center">
   <a href="https://dharshithdev.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -52,26 +48,33 @@
 ## 🛠️ Technical Arsenal
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=js,python,php,java,c,cpp,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,php,java,c,cpp,html,css" />
+</p>
 
 ### 📚 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,threejs" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,threejs" />
+</p>
 
 ### 🤖 AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=py,sklearn,opencv" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,sklearn,opencv" />
+</p>
 <p><em>LangChain • RAG • YOLOv8 • NLP • Vector Search</em></p>
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-
-### 🛡️ Cybersecurity & Tools
-<img src="https://skillicons.dev/icons?i=linux,git,github,postman,vscode,figma" />
+### 🗄️ Databases & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,linux,git,github,postman,vscode,figma" />
+</p>
 
 ---
 
-## 📊 Language Proficiency
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dharshithdev&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" />
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dharshithdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dharshithdev&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" />
 </p>
 
 ---
